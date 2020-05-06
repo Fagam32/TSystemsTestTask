@@ -12,4 +12,4 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Ilya Volodin
-* Codeship : 
+* Codeship : [![Codeship Status for Fagam32/TSystemsTestTask](https://app.codeship.com/projects/8189c4a0-7213-0138-0b60-66153bf80ae7/status?branch=master)](https://app.codeship.com/projects/395542)
