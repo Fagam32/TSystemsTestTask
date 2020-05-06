@@ -1,16 +1,16 @@
 package com.tsystems.javaschool.tasks.pyramid;
 
+import org.junit.Assert;
+import org.junit.Test;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-import org.junit.Assert;
-import org.junit.Test;
-
 public class PyramidBuilderTest {
 
-    private PyramidBuilder pyramidBuilder = new PyramidBuilder();
+    private final PyramidBuilder pyramidBuilder = new PyramidBuilder();
 
     @Test
     public void buildPyramid0() {
